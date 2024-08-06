@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PravinAcharya<br>👀 I’m interested in FullStack Web Development<br>🌱 I’m currently learning React.js
+👋 Hi, I’m Pravin Acharya<br>👀 I’m interested in FullStack Web Development<br>🌱 I’m currently learning React.js
 
 
 ## 🌐 Socials:
